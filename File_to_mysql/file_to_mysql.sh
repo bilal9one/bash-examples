@@ -1,4 +1,4 @@
-### This script reads data from a file and load into mysql table. Table name is today's date e.g. 2020-05-28. But you can change it as your need. 
+### This script reads data from a file and load into mysql table. Table name is today's date e.g. 2020-05-28. But you can change it as you need. 
 ### If the table doesn't exist then it creates the table and inserts data. If table exists then it updates the table. 
 
 #!/bin/bash
